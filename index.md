@@ -38,8 +38,8 @@ My interest in scientific research is long-standing and my earliest engagement w
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.png">
-            <img src="../assets/headshot.png"
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
                   title="Jeremy Li" alt="Jeremy Li"/></a>
         </div>
     </div>
