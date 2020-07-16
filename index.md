@@ -11,6 +11,9 @@ I am a data scientist at <a href="https://gencove.com/">Gencove</a> working on p
 
 Previously, I worked at Genomic Prediction, a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits, as one of the first hires in the role of bioinformatics lead, and spearheaded the pilot screening product and was heavily involved in the development of the flagship polygenic disease risk screening product.
 
+Scientifically, I am interested in statistical and  population genetics, dynamical systems theory, and most all other interesting things.
+Otherwise, I enjoy hiking, road biking, and other such things. 
+
 #### Background
 
 I graduated in 2017 from the University of Washington, where I did my undergraduate studies in physics and chemistry as dual degrees.
