@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Front page
+title: Jeremy Li
 description: Jeremy Li is a data scientist at Gencove
 keywords: genetics
 ---
