@@ -37,7 +37,7 @@ My interest in scientific research is long-standing and my earliest engagement w
     <div class="row-fluid">
         <div class="span5">
             Jeremy Li<br/>
-            Email: h.jeremy.li@gmail.com<br/>
+            Email: h.jeremy.li AT gmail.com<br/>
         </div>
 
         <div class="span2">
