@@ -5,20 +5,23 @@ description: Jeremy Li is a data scientist at Gencove
 keywords: genetics
 ---
 
-#### About me
+#### About Me
 
-I am a data scientist at <a href="https://gencove.com/">Gencove</a> working on problems in statistical genetics.
+I am a senior data scientist at <a href="https://gencove.com/">Gencove</a> working on problems in statistical genetics.
+My job primarily entails developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing (which is to say, almost everything that one might want to do with genome sequences). 
+Historically, my work has primarily been in human genomics but more recently has encompassed a wide variety of agricultural and model species. 
 
 Previously, I worked at Genomic Prediction, a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits, as one of the first hires in the role of bioinformatics lead, and spearheaded the pilot screening product and was heavily involved in the development of the flagship polygenic disease risk screening product.
 
-Scientifically, I am interested in statistical and  population genetics, dynamical systems theory, and most all other interesting things.
-Otherwise, I enjoy hiking, road biking, and other such things. 
+Scientifically, I am interested in statistical and  population genetics, dynamical systems theory, and cliodynamics.
+Aesthetically, I enjoy Mark Rothko, Aphex Twin, and Hiroshi Sugimoto. 
+Physically, I enjoy mountaineering, rock climbing, and road biking. 
 
 #### Background
 
 I graduated in 2017 from the University of Washington, where I did my undergraduate studies in physics and chemistry as dual degrees.
 
-At the same time, I was advised by <a href="http://faculty.washington.edu/hqian/">Hong Qian</a> in the Department of Applied Mathematics with whom I worked on an interesting problem in the theory of non-autonomous nonlinear dynamical systems, which culminated in a first-author publication.
+At the same time, I was advised by <a href="http://faculty.washington.edu/hqian/">Hong Qian</a> in the Department of Applied Mathematics with whom I worked on an interesting problem in the theory of non-autonomous nonlinear dynamical systems, which culminated in an interesting <a href="https://pubmed.ncbi.nlm.nih.gov/31700198/">paper</a> characterizing the dynamics of a non-autonomous version of the classical saddle-node bifurcation.
 
 Prior to that, I did research with the <a href="http://faculty.washington.edu/masiello/Masiello_Group_Website/Home.html">Masiello Group</a> in the Physics department, for which I earned the <a href="https://expd.uw.edu/mge/apply/research/">Mary Gates Research Scholarship</a>.
 
