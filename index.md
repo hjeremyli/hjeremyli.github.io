@@ -8,14 +8,14 @@ keywords: genetics
 #### About Me
 
 I am a senior data scientist at <a href="https://gencove.com/">Gencove</a> working on problems in statistical genetics.
-My job primarily entails developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing (which is to say, almost everything that one might want to do with genome sequences). 
-Historically, my work has primarily been in human genomics but more recently has encompassed a wide variety of agricultural and model species. 
+As the sole member of the research team, my job primarily entails developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing (which is to say, almost everything that one might want to do with genome sequences). 
+Historically, my work has primarily been in human genomics but more recently has encompassed a wider variety of agricultural and model species. 
 
-Previously, I worked at Genomic Prediction, a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits, as one of the first hires in the role of bioinformatics lead, and spearheaded the pilot screening product and was heavily involved in the development of the flagship polygenic disease risk screening product.
+Previously, I worked at Genomic Prediction --- a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits --- as one of the first hires in the role of bioinformatics lead, and spearheaded the pilot screening product and was heavily involved in the development of the flagship polygenic disease risk screening product.
 
 Scientifically, I am interested in statistical and  population genetics, dynamical systems theory, and cliodynamics.
 Aesthetically, I enjoy Mark Rothko, Aphex Twin, and Hiroshi Sugimoto. 
-Physically, I enjoy mountaineering, rock climbing, and road biking. 
+Recreationally, I enjoy mountaineering, rock climbing, and road biking. 
 
 #### Background
 
