@@ -8,7 +8,7 @@ keywords: genetics
 #### About Me
 
 I am a senior data scientist at <a href="https://gencove.com/">Gencove</a> working on problems in statistical genetics.
-As the sole member of the research team, my job primarily entails developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing (which is to say, almost everything that one might want to do with genome sequences). 
+As the first computational hire on the research team (and the first member of the data science team), my job primarily entails developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing (which is to say, almost everything that one might want to do with genome sequences). 
 Historically, my work has primarily been in human genomics but more recently has encompassed a wider variety of agricultural and model species. 
 
 Previously, I worked at Genomic Prediction --- a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits --- as one of the first hires in the role of bioinformatics lead, and spearheaded the pilot screening product and was heavily involved in the development of the flagship polygenic disease risk screening product.
