@@ -7,7 +7,7 @@ keywords: genetics
 
 #### About Me
 
-I am a senior data scientist at <a href="https://gencove.com/">Gencove</a> working on problems in statistical genetics.
+I am the head of data science at <a href="https://gencove.com/">Gencove</a>, an early-stage biotech startup bringing low-pass sequencing to industrial scale. I lead a team of scientists working on problems in statistical genetics.
 As the first computational hire on the research team (and the first member of the data science team), my job primarily entails developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing (which is to say, almost everything that one might want to do with genome sequences). 
 Historically, my work has primarily been in human genomics but more recently has encompassed a wider variety of agricultural and model species. 
 
