@@ -6,9 +6,8 @@ keywords: genetics
 ---
 
 #### About Me
-
-I am the director of data science at <a href="https://gencove.com/">Gencove</a>, an early-stage biotech startup bringing low-pass sequencing to industrial scale. 
-I lead a team of scientists working on problems in statistical and population genetics, and guide the research direction of the group.
+I am a scientist and researcher with broad interests. Most recently, I was the director of data science at <a href="https://gencove.com/">Gencove</a>, an early-stage biotech startup bringing low-pass sequencing to industrial scale. 
+I hired, managed, and led a team of scientists working on problems in statistical and population genetics, and guided the research direction of the group.
 
 Previously, as the first hire on the data science/research team in an IC role, my job primarily entailed developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing.
 
