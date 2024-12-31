@@ -6,18 +6,16 @@ keywords: genetics
 ---
 
 #### About Me
-I am a scientist and researcher with broad interests. Most recently, I was the director of data science at <a href="https://gencove.com/">Gencove</a>, an early-stage biotech startup bringing low-pass sequencing to industrial scale. 
+I am a scientist and engineer with broad interests. Most recently, I was the director of data science at <a href="https://gencove.com/">Gencove</a>, an early-stage biotech startup bringing low-pass sequencing to industrial scale. 
 I hired, managed, and led a team of scientists working on problems in statistical and population genetics, and guided the research direction of the group.
 
 Previously, as the first hire on the data science/research team in an IC role, my job primarily entailed developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing.
 
 Historically, my work has primarily been in human genomics but more recently has encompassed a wider variety of agricultural and model species. 
 
-Previously, I worked at Genomic Prediction --- a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits --- as one of the first hires in the role of bioinformatics lead, and spearheaded the pilot screening product and was heavily involved in the development of the flagship polygenic disease risk screening product.
+Before that, I worked at Genomic Prediction --- a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits --- as one of the first hires, to lead data science, and spearheaded the pilot screening product and was a major contributor to the development of the flagship polygenic disease risk screening product.
 
 My academic background is in physics and applied math. 
-
-Scientifically, I am interested in statistical and  population genetics, dynamical systems theory, and cliodynamics.
 Aesthetically, I enjoy Mark Rothko, Aphex Twin, and Hiroshi Sugimoto. 
 Recreationally, I enjoy mountaineering, rock climbing, and road biking. 
 
