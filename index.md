@@ -1,23 +1,21 @@
 ---
 layout: frontpage
 title: Jeremy Li
-description: Jeremy Li is a data scientist at Gencove
-keywords: genetics
+description: Jeremy Li
+keywords: 
 ---
 
 #### About Me
-I am a scientist and engineer with broad interests. Most recently, I was the director of data science at <a href="https://gencove.com/">Gencove</a>, an early-stage biotech startup bringing low-pass sequencing to industrial scale. 
-I hired, managed, and led a team of scientists working on problems in statistical and population genetics, and guided the research direction of the group.
+I am a researcher and engineer with broad interests. Most recently, I spent ~6 years at <a href="https://gencove.com/">Gencove</a>, an early-stage biotech startup bringing low-pass sequencing to industrial scale.
+During my time there, I wore many hats.
+Initially  hired as the first member of the research team, my job primarily entailed developing and "productionizing" statistical/ML and computational methodology around applications of low-pass whole genome sequencing.
+Later, as the company grew, I led the effort in scaling up and spearheading the research team (formally as the director of data science, though this was a catch-all for research science, research engineering, etc.), and did a lot of work in developing and implementing novel methods in production pipelines that processed >1Pb of genomic data a year.
 
-Previously, as the first hire on the data science/research team in an IC role, my job primarily entailed developing and "productionizing" statistical and computational methodology around applications of low-pass whole genome sequencing.
-
-Historically, my work has primarily been in human genomics but more recently has encompassed a wider variety of agricultural and model species. 
-
-Before that, I worked at Genomic Prediction --- a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits --- as one of the first hires, to lead data science, and spearheaded the pilot screening product and was a major contributor to the development of the flagship polygenic disease risk screening product.
+Before that, I worked at Genomic Prediction --- a genetics startup that develops pre-implantation genetic screening tests for complex (polygenic) traits --- as one of the first hires,  spearheaded development of the pilot screening product as well as the flagship polygenic disease risk screening product.
 
 My academic background is in physics and applied math. 
-Aesthetically, I enjoy Mark Rothko, Aphex Twin, and Hiroshi Sugimoto. 
-Recreationally, I enjoy mountaineering, rock climbing, and road biking. 
+Outside of work, I enjoy appreciating art; most notably, my favorite artists are Mark Rothko, Aphex Twin, and Hiroshi Sugimoto. 
+I also enjoy outdoor activites such as mountaineering, rock climbing, and road biking. 
 
 #### Background
 
